@@ -1,4 +1,4 @@
-## Build a Modern E-Commerce App with Flutter, Firebase, BLoC, and Clean Architecture
+## Build a Modern E-Commerce App with Flutter, Firebase, BLoC, and Clean Architecture - CMR
 
 Welcome to the Project E-Commerce App! This guide will walk you through the steps to create a fully functional e-commerce application using Flutter and Firebase, following Clean Architecture principles and managing state with BLoC.
 
@@ -16,3 +16,5 @@ Welcome to the Project E-Commerce App! This guide will walk you through the step
 - **Firebase**: For authentication, Firestore database, and cloud storage.
 - **BLoC**: For state management.
 - **Dart**: The programming language used with Flutter.
+
+## Created by Cabrel Ngamaleu
