@@ -1,6 +1,7 @@
 ## Build a Modern E-Commerce App with Flutter, Firebase, BLoC, and Clean Architecture - CMR
 
 Welcome to the Project E-Commerce App! This guide will walk you through the steps to create a fully functional e-commerce application using Flutter and Firebase, following Clean Architecture principles and managing state with BLoC.
+![Alt text](https://github.com/cabrelngamaleu/e-commerce-App-mobile/blob/607d8ccf1428ce6e1eadb1d11312fb49e6d11b58/screenshot.jpg)
 
 ## Features
 
